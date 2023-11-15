@@ -1,0 +1,35 @@
+
+[
+    {
+        "id": "1",
+        "name": "Charizard",
+        "skill_power": "105",
+        "megaEvolution_factor": "85",
+        "strength": "210",
+        "team": "Ash"
+    },
+    {
+        "id": "2",
+        "name": "Venusaur",
+        "skill_power": "102",
+        "megaEvolution_factor": "62",
+        "strength": "170",
+        "team": "Ash"
+    },
+    {
+        "id": "3",
+        "name": "Blastoise",
+        "skill_power": "90",
+        "megaEvolution_factor": "90",
+        "strength": "300",
+        "team": "Gary"
+    },
+    {
+        "id": "4",
+        "name": "Alakazam",
+        "skill_power": "74",
+        "megaEvolution_factor": "104",
+        "strength": "150",
+        "team": "Gary"
+    }
+]
